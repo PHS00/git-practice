@@ -1,4 +1,4 @@
-def do_fizzbuzz():
+def do_fizzbuzz(num: int):
 	"""
 	fizzbuzz: print fizz buzz fizzbuzz
 	3: fizz
